@@ -1,0 +1,9 @@
+[submodule "upy-mylib"]
+	path = upy-mylib
+	url = https://github.com/tlied2/upy-mylib.git
+[submodule "micropython-tmp102"]
+	path = micropython-tmp102
+	url = https://github.com/tlied2/micropython-tmp102.git
+[submodule "mpy_bme280_esp8266"]
+	path = mpy_bme280_esp8266
+	url = https://github.com/catdog2/mpy_bme280_esp8266.git
